@@ -13,4 +13,3 @@ if temp == sum:
     print('Armstrong Number')
 else:
     print('Not Armstrong Number ')
-#Hello Bitch
