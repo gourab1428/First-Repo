@@ -1,0 +1,2 @@
+# First-Repo
+Armstrong Number
